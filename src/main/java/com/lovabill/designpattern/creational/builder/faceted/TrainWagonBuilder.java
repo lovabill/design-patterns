@@ -1,4 +1,4 @@
-package com.lovabill.designpattern.builder.faceted;
+package com.lovabill.designpattern.creational.builder.faceted;
 
 class TrainWagonBuilder extends TrainBuilder {
     public TrainWagonBuilder(String train) {

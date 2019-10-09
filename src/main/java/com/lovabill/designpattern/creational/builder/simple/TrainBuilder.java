@@ -1,4 +1,4 @@
-package com.lovabill.designpattern.builder.simple;
+package com.lovabill.designpattern.creational.builder.simple;
 
 class TrainBuilder {
     private static final String LINK = ">-<";

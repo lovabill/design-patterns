@@ -1,4 +1,4 @@
-package com.lovabill.designpattern.builder.faceted;
+package com.lovabill.designpattern.creational.builder.faceted;
 
 class TrainBuilder {
     protected String train = "";

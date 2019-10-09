@@ -1,4 +1,4 @@
-package com.lovabill.designpattern.builder.faceted;
+package com.lovabill.designpattern.creational.builder.faceted;
 
 public class Demo {
     public static void main(String[] args) {

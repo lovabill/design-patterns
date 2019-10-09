@@ -1,4 +1,4 @@
-package com.lovabill.designpattern.builder.simple;
+package com.lovabill.designpattern.creational.builder.simple;
 
 class Demo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.lovabill.designpattern.builder.fluent;
+package com.lovabill.designpattern.creational.builder.recursive;
 
 class TrainBuilder<T extends TrainBuilder<T>> {
     private static final String LINK = ">-<";

@@ -1,4 +1,4 @@
-package com.lovabill.designpattern.builder.fluent;
+package com.lovabill.designpattern.creational.builder.recursive;
 
 class Demo {
     public static void main(String[] args) {
