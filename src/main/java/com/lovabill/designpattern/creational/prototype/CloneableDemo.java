@@ -52,6 +52,9 @@ class Person implements Cloneable {
 }
 
 /**
+ * Use the prototype pattern when you need a fast start creating an object that is very similar to another or
+ * you need to keep a backup of an instance state.
+ * <p>
  * Java default clone behaviour is to shallow copy objects
  * clone() method can be overridden by using both the interface Cloneable
  * (which has no methods at all and acts as a marker for Object.clone() not to throw exception)
