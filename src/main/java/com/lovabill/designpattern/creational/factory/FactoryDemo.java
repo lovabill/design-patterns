@@ -41,7 +41,9 @@ class Point {
     }
 }
 
-
+/**
+ * Use factory design pattern to construct an object all at once.
+ */
 public class FactoryDemo {
     public static void main(String[] args) {
         //Create with constructor needs a public constructor.
